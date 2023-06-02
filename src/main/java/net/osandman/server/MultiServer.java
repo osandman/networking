@@ -60,7 +60,6 @@ public class MultiServer {
             }
             stopRequest = true;
             stop();
-//            System.exit(0);
         }).start();
     }
 
